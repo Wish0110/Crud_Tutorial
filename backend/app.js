@@ -26,13 +26,13 @@ app. post('/createuser', (req,res) => {
 
 app. post('/updateuser', (req,res) => {
     controller.updateUser(req.body, (callack) =>{
-        res.send(callback);
+        res.send(callack);
     });
 });
 
 app. post('/deleteuser', (req,res) => {
     controller.deleteUser(req.body, (callack) =>{
-        res.send(callback);
+        res.send(callack);
     });
 });
 
