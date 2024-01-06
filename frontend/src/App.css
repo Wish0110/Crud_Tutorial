@@ -12,13 +12,65 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
+  
 }
 
-.users-button{
+.users-button1{
   font-size: 18px ;
   padding: 20px 40px;
   border: none;
   border-radius: 10px;
   background-color: aliceblue;
   cursor: pointer;
+  margin-bottom: 3%;
+}
+
+.users-button2{
+  font-size: 18px ;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: aliceblue;
+  cursor: pointer;
+  margin-bottom: 3%;
+}
+
+.users-button3{
+  font-size: 18px ;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: aliceblue;
+  cursor: pointer;
+  margin-bottom: 3%;
+}
+
+.users-button4{
+  font-size: 18px ;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: aliceblue;
+  cursor: pointer;
+  margin-bottom: 3%;
+}
+
+.users-button5{
+  font-size: 18px ;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: aliceblue;
+  cursor: pointer;
+  margin-bottom: 3%;
+}
+
+.users-button6{
+  font-size: 18px ;
+  padding: 20px 40px;
+  border: none;
+  border-radius: 10px;
+  background-color: aliceblue;
+  cursor: pointer;
+  margin-bottom: 3%;
 }
